@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Intreigues of the French King at Constantinople to embroil Christendom discovered in several dispatches past betwixt him and the late Grand Seignior, Grand Vizier and Count Teckily : all of them found among that Count's papers seiz'd in December last : with some reflections upon them.</title>
+         </titleStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45955</idno><idno type="EEBO-CITATION">13325759</idno>
+  <idno type="VID">99060</idno>
+  <idno type="EEBO-PROQUEST">2248525651</idno>
+  
+            <idno type="STC">Wing I279</idno>
+            <idno type="STC">ESTC R13803</idno>
+            <idno type="OCLC">13325759</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45955)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99060)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 458:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Intreigues of the French King at Constantinople to embroil Christendom discovered in several dispatches past betwixt him and the late Grand Seignior, Grand Vizier and Count Teckily : all of them found among that Count's papers seiz'd in December last : with some reflections upon them.</title>
+                  <author>Louis XIV, King of France, 1638-1715.</author>
+                  <author>Mehmed IV, Sultan of the Turks, 1642-1693.</author>
+                  <author>Kara Mustafa Paşa, Merzifonlu, 1634-1683.</author>
+                  <author>Thököly, Imre, gróf, 1657-1705.</author>
+               </titleStmt>
+               <extent>[6], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Dorman Newman ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"None of them being hitherto seen in English."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">France --  Foreign relations --  Turkey.</term>
+               <term type="geographic_name">Turkey --  Foreign relations --  France.</term>
+               <term type="geographic_name">Vienna (Austria) --  History --  Siege, 1683.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:99060:1"/>
+            <p>THE INTREIGUES OF THE French King AT <hi>CONSTANTINOPLE,</hi> &amp;c.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:99060:2"/>
+            <pb facs="tcp:99060:2"/>
+            <p>THE INTREIGUES OF THE French King AT <hi>CONSTANTINOPLE,</hi> To Embroil CHRISTENDOM: DISCOVERED In several <hi>DISPATCHES</hi> past betwixt Him and the Late <hi>Grand Seignior, Grand Vizier,</hi> and Count <hi>TECKILY.</hi>
+            </p>
+            <p>All of them found among that <hi>Count's</hi> Papers seiz'd in <hi>December</hi> last. None of them being hitherto seen in <hi>English.</hi> WITH Some REFLECTIONS upon them.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Published by Authority.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Dorman Newman,</hi> at the <hi>King's Arms</hi> in the <hi>Poultry.</hi> 1689.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:99060:3"/>
+            <pb facs="tcp:99060:3"/>
+            <head>To the Reader.</head>
+            <p>NOtwithstanding all the World lays the blame of this War of the <hi>Turks,</hi> at the <hi>French</hi> King's door; and that the Emperour in his Declaration against <hi>France,</hi> does expresly assert, That, that King by his Ambassadour at <hi>Constanti<g ref="char:EOLhyphen"/>nople,</hi> had stir'd up the <hi>Ottomans</hi> to break the Truce with the <hi>Christians,</hi> and to fall in upon the Hereditary Countries of the House of <hi>Austria:</hi> Yet this Intreigue could not be made out from any demonstra<g ref="char:EOLhyphen"/>tive evidence till of late, when in a parcel of Count <hi>Teckly</hi>'s Papers, seiz'd in <hi>De<g ref="char:EOLhyphen"/>cember</hi> last, the <hi>Duplicates</hi> of the following <hi>Dispatches</hi> were found among them, which has put the Affair now beyond all question. These <hi>Duplicates</hi> being
+<pb facs="tcp:99060:4"/>mentioned in a Book printed at <hi>Rome</hi> in <hi>Italian,</hi> about four Months ago, called, <hi>The Miseries of Christendom, oc<g ref="char:EOLhyphen"/>casion'd by the Ambition of the most Christian King,</hi> were Copied from thence, and sent hither; the Book it self being too large, and its Contents too dange<g ref="char:EOLhyphen"/>rous, to be conveyed by the ordinary Pac<g ref="char:EOLhyphen"/>quet.</p>
+            <p>To make these <hi>Dispatches</hi> publick, and to give some few necessary hints to render them intelligible, is all that I aim at in the following Sheets, or that thou art to expect at present from me upon this Subject.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:99060:4"/>
+            <head>THE INTREIGUES OF THE French King AT <hi>CONSTANTINOPLE,</hi> &amp;c.</head>
+            <p>THE Treaty of <hi>Nimeguen</hi> had mightily changed the Face of <hi>Europe,</hi> and the Temple of <hi>Janus</hi> seem'd once more shut for good and all: The <hi>Empire, Spain, France, England, Sweden, Denmark,</hi> and the <hi>Ʋnited Provinces</hi> began all of them to breath <hi>a calmer Air,</hi> and to bury the remembrance of <hi>a bloody War,</hi> in the felt Blessings of <hi>a Serener Peace.</hi> It was not Christendom alone that was thus happy; The <hi>Ottomans,</hi> though Enemies to the Religion, yet in all their Conduct ap<g ref="char:EOLhyphen"/>pear'd Friends to the Persons and Interests of
+<pb n="2" facs="tcp:99060:5"/>the Christians, and under the sway of a peace<g ref="char:EOLhyphen"/>able Prince <hi>Mahomet</hi> the Fourth, they enjoy'd without Envy or Disturbance, the fruits of the Treaty made with the Emperour, <hi>Anno</hi> 1664. The Houses of <hi>Austria</hi> and <hi>France,</hi> the two great Competitors in the late War, seem'd to be united in an indissoluble Friendship, by the Marriage of <hi>his Catholick Majesty,</hi> with <hi>Mademo<g ref="char:EOLhyphen"/>selle d' Orleans,</hi> the <hi>French</hi> King's Niece; And the great Personal Endowments of that beauti<g ref="char:EOLhyphen"/>ful Princess, promis'd the continuance of a good understanding betwixt her Husband and her Uncle, by her means.</p>
+            <p>This was the state of <hi>Europe,</hi> and thus it might have been to this day, if the boudless Ambition of <hi>Lowis</hi> the XIV. <hi>the Most Christian King,</hi> had not plung'd her of new again into Miseries greater than hitherto they had fell. This restless Monarch's aims were always rowl<g ref="char:EOLhyphen"/>ing upon <hi>the Emperial Dignity;</hi> And to be the most Absolute King of <hi>France,</hi> of all that went before him, was not a sufficient quarry for this soaring Mind, unless he could attain to be Em<g ref="char:EOLhyphen"/>perour of <hi>Germany</hi> at the same time: It was not the first time, that <hi>the Most Christian Kings</hi> had made, the strictest Alliances with the <hi>Turks:</hi> One of the greatest, and perhaps best of them,
+<pb n="3" facs="tcp:99060:5"/>had above an Hundred and forty years ago, brought an <hi>Ottoman</hi> Army before the Walls of <hi>Vienna,</hi> and was within an Ace of seeing that <hi>Rampart</hi> of Christendom laid in Ashes.</p>
+            <p>
+               <hi>Lowis</hi> the XIV. entertain'd the same incli<g ref="char:EOLhyphen"/>nations that <hi>Francis</hi> the First had, and his in<g ref="char:EOLhyphen"/>veterate hatred of <hi>Leopold,</hi> came nothing short of his Predecessors to <hi>Charles:</hi> The Emperial Dignity, and the Ruin of the House of <hi>Austria,</hi> were the two <hi>Whites</hi> they both equally shot at, and both of them had been disappointed of the <hi>first.</hi>
+            </p>
+            <p>Many more were the Barrs that obstructed the designs of <hi>Francis the First,</hi> than those which <hi>Lowis</hi> had to grapple with. <hi>Francis</hi> had no fewer Enemies than the Kingdoms of <hi>Spain, Naples, Scicily</hi> and <hi>Sardignia,</hi> the whole <hi>Seven<g ref="char:EOLhyphen"/>teen Provinces of the Low-Countries,</hi> and the greatest Dutchy in <hi>Europe,</hi> that of <hi>Millain;</hi> All of them united together in the Person of <hi>Charles the Fifth,</hi> together with the unexhaustible Riches of <hi>the New-found World,</hi> to bear up his Expences. <hi>Francis</hi> had likewise to do with the other Brother <hi>Ferdinand,</hi> King of the <hi>Romans, Boheme</hi> and <hi>Hungary,</hi> and Master of all <hi>the He<g ref="char:EOLhyphen"/>reditary Countries</hi> of the House of <hi>Austria</hi> in <hi>Germany.</hi> In fine, <hi>Francis</hi> his Fate led him to
+<pb n="4" facs="tcp:99060:6"/>contend with the House of <hi>Austria</hi> when it was in its <hi>Vertical height,</hi> and made the greatest Fi<g ref="char:EOLhyphen"/>gure that <hi>Europe</hi> had seen in one Family since the days of <hi>Charles the Great.</hi>
+            </p>
+            <p>
+               <hi>Lowis</hi> the XIV. upon the contrary, had all reason in the World, to expect a better Event of his Ambitious hopes, than what attended <hi>Francis the First.</hi> The Family of <hi>Austria</hi> was now sunk greatly in its Power, and was at the lowest ebb of its Fortune; Being divided to boot into two distinct Families, possest of Countries at a great distance one from another, and neither of them in capacity to lend one another any considerable assistance: And which added greatly to its misfortune, the whole Fa<g ref="char:EOLhyphen"/>mily was now reduced to the number of <hi>Three Males</hi> only, <hi>the Emperour, the King of Spain,</hi> and <hi>the Arch-Duke;</hi> the Emperour being past the Meridian of his Age, the King of <hi>Spain</hi> not yet attain'd the years of Majority, and of a weak and valitudinary Constitution, and the Arch-Duke as yet but a Child.</p>
+            <p>There was one thing more that flatter'd the Ambitious hopes of <hi>the Most Christian King,</hi> the prospect of <hi>the Crown of Spain,</hi> with all its vast Territories in <hi>the old and new Worlds,</hi> through the decease of his Catholick Majesty. It's true,
+<pb n="5" facs="tcp:99060:6"/>that in <hi>the Contract of Marriage</hi> betwixt <hi>Lowis</hi> the XIII. and the then <hi>Infanta</hi> of <hi>Spain,</hi> and in <hi>that</hi> of <hi>Lowis</hi> the XIV. with the Sister of his present <hi>Catholick Majesty,</hi> both of them Ra<g ref="char:EOLhyphen"/>tified by <hi>the Treaty of Perinees.</hi> These two Kings did <hi>Renounce</hi> all benefit of Succession to the <hi>Crown of Spain,</hi> or to any of its Dominions, upon the failure of that <hi>Male-branch of Austria.</hi> But <hi>Lowis</hi> the XIV. has left us no ground to doubt of the little value he puts upon <hi>Treaties</hi> or <hi>Agreements</hi> of that nature, and how easily his Conscience might over-come any scruple ari<g ref="char:EOLhyphen"/>sing therefrom, in case of the Death of his Ca<g ref="char:EOLhyphen"/>tholick Majesty without Issue, when there would be so vast an Interest at stake.</p>
+            <p>I am loath to meddle with that Affair so much talk'd of, about <hi>the Cause of the Queen of</hi> Spain's <hi>Barrenness:</hi> The Court of <hi>France</hi> knows best what truth is in it; and indeed one might pardonably enough conclude, That the Poli<g ref="char:EOLhyphen"/>ticks of that Court would make no scruple, to hinder at any rate the further increase of the House of <hi>Spain;</hi> And that if the Art of Physick could possibly effectuate the design, there might be gotten some one of that Profession, at <hi>Pa<g ref="char:EOLhyphen"/>ris</hi> or <hi>Versailles,</hi> to lend a hand to it. But the Death of that Queen puts a stop to any further
+<pb n="6" facs="tcp:99060:7"/>Inquiry into so misterious an Affair, and I am willing to bury the remembrance of it in that Princesses Tomb.</p>
+            <p>The most Christian King having thus in his Am<g ref="char:EOLhyphen"/>bitious hopes, devour'd <hi>the Crown of Spain</hi> upon supposition of the Death of its present King, there remained one thing to be done, in order to pre<g ref="char:EOLhyphen"/>vent any trouble from the other <hi>Branch</hi> of the House of <hi>Austria,</hi> in the points of Succession to that Crown; and at the same time to path a way to the <hi>Imperial Dignity it self;</hi> And that was to break the Treaty between the <hi>Emperour</hi> and the <hi>Turks,</hi> and to bring an <hi>Ottoman Army</hi> in upon <hi>Germany:</hi> The Politick of which design lay here, That the <hi>Turks</hi> falling in upon the <hi>Empire,</hi> and the Emperours <hi>Hereditary Countries,</hi> might so far weaken the <hi>Germans,</hi> and undoe the Emperours own <hi>Estate,</hi> as to render <hi>the one</hi> incapable of supporting the <hi>Emperial Dignity,</hi> and to force <hi>the other</hi> to call in the <hi>French</hi> King to their assistance, and to Proclaim him <hi>Emperour,</hi> which event he had the rather reason to hope, that he had entertained Correspondence with a great many Princes of the <hi>Empire,</hi> and had been liberal enough of his Gold to gain their Friend<g ref="char:EOLhyphen"/>ship. But if all this should happen to fail him, the most Christian King would at least have the
+<pb n="7" facs="tcp:99060:7"/>satisfaction to embroil the Empire, and render them and the <hi>Head of the</hi> German <hi>Body</hi> incapa<g ref="char:EOLhyphen"/>ble to obstruct his designs upon <hi>Spain,</hi> either in part, while that King was <hi>alive;</hi> or for the whole when <hi>dead.</hi>
+            </p>
+            <p>In order to this so Christian a design, the most Christian King dispatches an Express to his Ambas<g ref="char:EOLhyphen"/>sadour at <hi>Constantinople,</hi> with Orders to him, to endeavour by all means possible to procure a <hi>Rup<g ref="char:EOLhyphen"/>ture</hi> with the <hi>Emperour</hi> and to deliver the follow<g ref="char:EOLhyphen"/>ing Letter to the <hi>Grand Seignior,</hi> after having first imparted it, together with another Letter (which has not come to our hands) to the <hi>Grand Visier.</hi> The Letter being written Originally both in <hi>French</hi> and <hi>Latin,</hi> runs thus in the <hi>Duplicate</hi> found among <hi>Count Teckilies</hi> Papers.</p>
+            <div type="letter">
+               <head>To <hi>MAHOMET</hi> the Fourth, The most Serene Emperour of the <hi>TƲRKS.</hi>
+               </head>
+               <p>IT being always our Design and Ambition, to promote the interest and advantage of our Allies and Friends to the uttermost of our power, especially your Highnesses, our singular good Friend and Allie, whose Concerns We ever have, and shall own as
+<pb n="8" facs="tcp:99060:8"/>our own; We have given Command to our Trusty and Faithful Servant Residing our Ambassadour at the Port, to acquaint your Highness as from us, of certain great and important matters, that con<g ref="char:EOLhyphen"/>concern your Highness's Greatness and Interest, with relation to your Kingdom of <hi>Hungary,</hi> and to the Incroachments made upon you by <hi>Leopold</hi> Emperour of the <hi>Germans.</hi> You may give intire credit to what our said Ambassadour shall tell you on our part, and may safely lay your Account so without Concurrence and Assistance, in what may contribute to the Glory of yours, and our Arms, against our Common Enemy. God have your Highness in his Protection.</p>
+               <closer>
+                  <signed>
+                     <hi>Your Highnesse's good Friend,<lb/> Ancient Allie and Confederate,</hi> LOWIS.</signed>
+                  <lb/>
+                  <dateline>
+                     <hi>Given at our Palace-Royal<lb/> of</hi> Versailles, <hi>in our King<g ref="char:EOLhyphen"/>dom<lb/> of</hi> France, <date>
+                        <hi>this 3d. of</hi>
+                        <lb/> April <hi>1681.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="commentary">
+               <pb n="9" facs="tcp:99060:8"/>
+               <head>REFLECTIONS.</head>
+               <p>WE may easily guess by the strain of this Letter, the subject-matter which the <hi>French Ambassadour</hi> was Commanded to empart to <hi>the Grand Seignior;</hi> since we find he tells him plainly it was something relating to <hi>Leopold,</hi> Emperour of the <hi>Germans;</hi> whom, no doubt, he likewise designs at the end of the Letter by the said <hi>Common Enemy.</hi> I confess it's an irre<g ref="char:EOLhyphen"/>parable loss, that we have not got into our hands a <hi>Duplicate</hi> of the other Letter so written at the same time to the <hi>Grand Vizier,</hi> which was not among the rest of Count <hi>Teckly</hi>'s Pa<g ref="char:EOLhyphen"/>pers; among which, this to the <hi>Grand Seignior</hi> was found. But we may well conclude, That, <hi>that Letter</hi> was more particular than the above<g ref="char:EOLhyphen"/>mentioned one to the <hi>Grand Seignior,</hi> if we take a view of <hi>the partial Copy</hi> of the <hi>French</hi> Am<g ref="char:EOLhyphen"/>bassadour's Instructions sent him at the same time from <hi>Versailles,</hi> found likewise among <hi>Teckily</hi>'s Papers, which seems, by the abruptness of them, to be indeed but a part of <hi>a greater number,</hi> contained in <hi>the principal Instructions.</hi> What's contain'd in this Paper, is as follows.</p>
+               <pb n="10" facs="tcp:99060:9"/>
+               <p> Upon the back of the Paper it's written thus in <hi>High Dutch,</hi> and thought to be Count <hi>Tecki<g ref="char:EOLhyphen"/>ly</hi>'s own Hand: <hi>Concerning the</hi> French <hi>Ambas<g ref="char:EOLhyphen"/>sadour's Instructions from his Prince,</hi> Anno 1681.</p>
+               <p>The Paper within, runs thus in <hi>French,</hi> and in a different hand:</p>
+               <p>
+                  <q>To assure the <hi>Grand Vizier</hi> that his Maje<g ref="char:EOLhyphen"/>sty of <hi>France</hi> is, and always was, a sincere Friend of the <hi>Grand Seigniors,</hi> and this in particular; and that he has on all occasions express'd his value and esteem of them.</q>
+               </p>
+               <p>
+                  <q>To give him an account of the present low Condition of the Family of <hi>Austria,</hi> and of the great Jealousies entertain'd of that House by most of the Princes of the Em<g ref="char:EOLhyphen"/>pire; And that in case of an Invasion upon the Emperour's Hereditary Countries, it would be impossible for him to make any considerable Resistance, especially consider<g ref="char:EOLhyphen"/>ing he himself understands nothing of War, being taken up altogether with his supersti<g ref="char:EOLhyphen"/>tious Devotion in Jubilees, Processions, and the like.</q>
+               </p>
+               <p>Here there are above thirty Lines put out, so that they are utterly illegible. Then the Paper continues thus:</p>
+               <pb n="11" facs="tcp:99060:9"/>
+               <p>
+                  <q>To give him an account of the present state of <hi>Hungary,</hi> and of the many Grievan<g ref="char:EOLhyphen"/>ces that Kingdom lies under, from the Op<g ref="char:EOLhyphen"/>pression of the <hi>Emperour;</hi> and to perswade him, that the Noblemen and Gentry of <hi>Hun<g ref="char:EOLhyphen"/>gary</hi> long earnestly for an opportunity to shake off the <hi>Austrian</hi> Yoke, and to put themselves in the Protection of the Port; but more especially These of the Reform'd Religion.</q>
+               </p>
+               <p>
+                  <q>To give him all possible assurances, that in case the <hi>Grand Vizier</hi> shall attempt any thing against the <hi>Germans,</hi> He shall be sure of the Assistance of the King of <hi>France,</hi> by way of a diversion upon the <hi>Rhine;</hi> and that all Measures possible shall be taken for the Success of the <hi>Ottoman</hi> Arms, in as far as will consist with that necessary decorum which must be kept up, the more to amuse the <hi>Germans.</hi>
+                  </q>
+               </p>
+               <p>
+                  <q>If he find that the <hi>Grand Vizier</hi> relishes these Proposals, and that the inclines to break the Truce with the Emperour, then He shall deliver the clos'd Letter herewith sent, and directed for the <hi>Grand Vizier:</hi> But if he find him shy in the Proposals, then he shall re<g ref="char:EOLhyphen"/>turn the said Letter unbroken up, by the first opportunity.</q>
+               </p>
+               <pb n="12" facs="tcp:99060:10"/>
+               <p>
+                  <q>If he find the <hi>Grand Vizier</hi> Cordial in the Affair, then he shall propose a League Defen<g ref="char:EOLhyphen"/>sive and Offensive betwixt Us and the Port, as near as possible to the Draught herewith sent.</q>
+               </p>
+               <p>This is all this Paper contains, and it's a great misfortune that it's not more large, as certainly <hi>the principal</hi> from which it has been Copied has been. And with the want of the Letter to <hi>the Grand Vizier,</hi> we must also regret that of <hi>the Draught of the Offensive and Defensive League,</hi> which appears to have been sent with the <hi>Instru<g ref="char:EOLhyphen"/>ctions.</hi> However, we have more than enough left us in this Paper, to perswade us of the Ob<g ref="char:EOLhyphen"/>ligations that <hi>Europe</hi> has to the <hi>French</hi> King's <hi>In<g ref="char:EOLhyphen"/>treigues at Constantinople,</hi> and where we may lay the blame of all <hi>the Miseries</hi> she suffers at this day.</p>
+               <p>I hope no body will doubt but that these <hi>In<g ref="char:EOLhyphen"/>structions</hi> are the same mentioned in the Letter written to the <hi>Grand Seignior,</hi> though <hi>the Date</hi> be not set down, since they run upon one and the same strain, relate to the same subject, and have been both of them written before the War brake out. And by the by, I cannot but ad<g ref="char:EOLhyphen"/>mire that Expression in the Instructions, of <hi>the Emperour's superstitious Devotion;</hi> where He that
+<pb n="13" facs="tcp:99060:10"/>pretends to be the eldest Son of the Church, gives such a bad designation to the Worship of that Religion he himself professes.</p>
+               <p>The Cursed effects of <hi>these Letters and In<g ref="char:EOLhyphen"/>structions,</hi> broke out, to the astonishment of all <hi>Europe,</hi> in the Year 1682. At which time the <hi>Grand Seignior</hi> brake the Twenty years Truce with the Emperour, and fell in upon <hi>Hungary</hi> with a formidable Army. And in the Month of <hi>July</hi> 1683, the <hi>Ottoman</hi> Army sat down before <hi>Vienna,</hi> the Emperour and his Family being ob<g ref="char:EOLhyphen"/>liged to retire to <hi>Lintz</hi> in the greatest Conster<g ref="char:EOLhyphen"/>nation, and leaving Count <hi>Staremberg</hi> Gover<g ref="char:EOLhyphen"/>nour within the <hi>Town.</hi>
+               </p>
+               <p>There is another <hi>Duplicate</hi> of a Letter found among Count <hi>Teckly</hi>'s Papers, written to him by the <hi>French</hi> King in the Month of <hi>August,</hi> during the Siege of <hi>Vienna;</hi> and which by its strain, ap<g ref="char:EOLhyphen"/>pears to be one, of a great many others, written about that time, and to be the effect of a con<g ref="char:EOLhyphen"/>stant Correspondence betwixt them, and gives further light to this Affair. The Paper in <hi>French,</hi> is in these words.</p>
+            </div>
+            <div type="letter">
+               <pb n="14" facs="tcp:99060:11"/>
+               <head>To the Illustrious Prince, and our good Friend, Allie and Confederate, The Count of <hi>TECKILY,</hi> &amp;c. Prince of the Holy Empire, and Palatine in <hi>Hungary.</hi>
+               </head>
+               <opener>
+                  <salute>My LORD,</salute>
+               </opener>
+               <p>WE have given you so many demonstrations of our Friendship to you, and of our Zea<g ref="char:EOLhyphen"/>lous Concern for your Interest, that We believe you have no ground to doubt of it, long before this time. I am extraordinarily glad of the good effects of our Friendship, and that our Enemies are brought to the state they are in. Your Fortune depends entirely upon the pushing it forward, for the Emperour will try all means to raise the Siege by his Allies. What We wrote last, We refer you to it; and you may lay your Account with another supply of the same kind, when ever the Passages can allow of it; For We will not be a Friend by halves only, but to the utmost extent of our Power. We wait with impatience the event of this great Affair; and We are preparing to be as good as our Word upon our part. This Currier you may trust without reserve, and dispatch him by the way of <hi>Den<g ref="char:EOLhyphen"/>mark</hi> after he has—<hi>Here are two Lines raced
+<pb n="15" facs="tcp:99060:11"/>out, so that it's impossible to make any thing of them; and then follows,</hi> God keep you in his Holy Protection.</p>
+               <closer>
+                  <salute>My Lord and good Friend,</salute>
+                  <lb/>
+                  <signed>Your good Friend<lb/> and Confederate,<lb/>
+                     <hi>LOWIS.</hi>
+                  </signed>
+                  <lb/>
+                  <dateline>
+                     <hi>Given at our Palace<lb/> of</hi> Versailles <date>
+                        <hi>the 30th<lb/> of</hi> August, <hi>1683.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="commentary">
+               <head>REFLECTIONS.</head>
+               <p>IN this Letter we have <hi>the most Christian King</hi> expressing a Cordial affection to <hi>a person</hi> that was in Arms with the <hi>Mahumetans</hi> against the <hi>Christians;</hi> we have him testifying his ex<g ref="char:EOLhyphen"/>traordinary gladness, that <hi>his and their Enemies, viz.</hi> the Christian Emperour, is brought low; and encouraging them <hi>to push forward</hi> the Siege of <hi>Vienna,</hi> lost it should be <hi>Reliev'd</hi> There is one expression of his sending him <hi>a Supply of the same kind when the Passages can allow of it;</hi> which must certainly be <hi>Money,</hi> since no Supply could thereby be meant, but either that of <hi>Men</hi> or <hi>Money;</hi> and Men he had not sent before, as that kind of Supply he pro<g ref="char:EOLhyphen"/>mises
+<pb n="16" facs="tcp:99060:12"/>now is insinuated to have been; and con<g ref="char:EOLhyphen"/>sequently it must be <hi>Money.</hi> But <hi>how much</hi> and <hi>how often</hi> the most Christian King did supply Count <hi>Teckily</hi> in this kind, we are in the mist; yet probably He cost the <hi>French</hi> King vast Sums of Money, considering that <hi>Teckily</hi>'s Army was constantly well paid, when at that same time; that of the <hi>Serasquier</hi>'s was always upon the Mutenying for want of theirs.</p>
+               <p>The glorious Actions of <hi>Raising the Siege of Vienna</hi> by his Majesty of <hi>Poland,</hi> the Duke of <hi>Lorrain,</hi> and the Elector of <hi>Bavaria,</hi> was an Event too <hi>great</hi> and too <hi>important</hi> ever to be forgotten; And the News of it was so unwel<g ref="char:EOLhyphen"/>come at <hi>Versailles,</hi> that none of the Most Chri<g ref="char:EOLhyphen"/>stian King's <hi>Minions</hi> durst venture to tell him of it, till <hi>Monsieur de Montauzier,</hi> the <hi>Cato</hi> of <hi>France,</hi> undertook it with the same freedom he uses to tell that King his Faults; And indeed never did <hi>Lowis</hi> the XIV receive any thing with greater Concern of Mind, and more Re<g ref="char:EOLhyphen"/>sentment of Wrath and Revenge, than this so happy an event for <hi>Christendom:</hi> He shut himself up in his Chamber for two days, with<g ref="char:EOLhyphen"/>out allowing his nearest Favourites to come near him; And such was the Impression this News had upon him, that it threw him into a
+<pb n="17" facs="tcp:99060:12"/>kind of Fever, which kept him in Bed another day more; so mightily was the Most Christian King afflicted at the ill success of his <hi>Allie</hi> and <hi>Confederate</hi> the <hi>Grand Seignior.</hi>
+               </p>
+               <p>His <hi>Majesty of Poland</hi> deserves more of <hi>Chri<g ref="char:EOLhyphen"/>stendom,</hi> than to be accused of his slackness in pursuing his Victory against the <hi>Ottomans;</hi> and it were the height of Ingratitude to mention the <hi>Motives</hi> that prevail'd with that <hi>War-like Prince</hi> to return so soon with his Victorious Army to his own Countrey. Only this we may venture to say, That Prince found it much easier to Conquer the <hi>Turks,</hi> than to Resist a <hi>French</hi> Lady that lay in his Bosom, whose Solici<g ref="char:EOLhyphen"/>tation stopt him in the very midst of his Career of Glory. So universal an influence has <hi>the Most Christian King</hi> in all Places, and upon all Sexes, where his Money can reach.</p>
+               <p>The <hi>Ottomans</hi> were strangely humbled by their disaster before the <hi>Walls</hi> of <hi>Vienna,</hi> and Count <hi>Teckily</hi> of all Men, had most reason to doubt his Fate, considering it's ordinary among Princes, especially these of the <hi>Mahumetan Reli<g ref="char:EOLhyphen"/>gion,</hi> to sacrifice, to their Revenge, the persons that have occasioned their misfortunes. In this perplexity of Count <hi>Teckily</hi>'s affairs, his constant Allie and Confederate <hi>Lowis</hi> the XIV. was not
+<pb n="18" facs="tcp:99060:13"/>wanting to create in him fresh hopes, and to raise his drooping spirits by the promises of <hi>his faithfuluess to his Interest:</hi> In order to which, he dispatches him an Express with this Letter, a Duplicate whereof, among that <hi>Count</hi>'s Papers, runs thus in the <hi>French.</hi>
+               </p>
+            </div>
+            <div type="letter">
+               <head>To the Illustrious Prince, and our good Friend, Allie and Confederate, The Court of <hi>TECKILY,</hi> &amp;c. Prince of the Holy Empire, and Palatine in <hi>Hungary.</hi>
+               </head>
+               <opener>
+                  <salute>Illustrious Lord and Allie,</salute>
+               </opener>
+               <p>WE have dispatch'd this our Trusty Ser<g ref="char:EOLhyphen"/>vant, the <hi>Siour de Vennes,</hi> to let you know the Affliction of our Mind upon the account of the Misfortune at <hi>Vienna;</hi> And We shall not at present reflect upon the Mismanagements of that Affair, nor upon the Methods taken by the <hi>Seras<g ref="char:EOLhyphen"/>quier Bassa,</hi> contrary to what We formerly wrote by <hi>Monsieur de Lees.</hi> It's more reasonable We should fall upon the Consideration of what is next to be done in order to retrieve our Affairs, than idly to regret what's past. To this effect We have given <hi>de
+<pb n="19" facs="tcp:99060:13"/>Vennes</hi> our ample Instructions what to propose to you, and by you to the <hi>Serasquier Bassa;</hi> in which We desire you to give him full credit. I have or<g ref="char:EOLhyphen"/>dered him to shew You and the <hi>Serasquier</hi> the In<g ref="char:EOLhyphen"/>structions Signed by us, and refers the rest to your own diseretion and his. And because there is one thing in the Instructions which We resolve to put in practice before We can possibly have your An<g ref="char:EOLhyphen"/>swer, <hi>viz.</hi> that of making a Diversion; We desire you may rest assured, that We will not fail there<g ref="char:EOLhyphen"/>in; and to that purpose We have ordered a consi<g ref="char:EOLhyphen"/>derable part of our Armies to march instantly to the Frontiers. We have sent herewith by our said Servant. <hi>Here is above nine Lines altogether blotted out, and only these following words re<g ref="char:EOLhyphen"/>maining:</hi>
+               </p>
+               <closer>
+                  <salute>Illustrious Lord and Allie,</salute>
+                  <lb/>
+                  <signed>Your good Friend, Allie,<lb/> and Confederate, <hi>LOWIS.</hi>
+                  </signed>
+                  <lb/>
+                  <dateline>
+                     <hi>Given at our Royal<lb/> Court at</hi> Versailles<lb/>
+                     <date>
+                        <hi>the 2d. of</hi> December<lb/>
+                        <hi>1683.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="commentary">
+               <pb n="20" facs="tcp:99060:14"/>
+               <head>REFLECTIONS.</head>
+               <p>IN this <hi>Pathetick</hi> Letter His most Christian Majesty condoles with Count <hi>Teckily</hi> the Misfortune of <hi>Raising the Siege of Vienna,</hi> and encourages him against it, by giving Instructions to the Messenger, to propose some things both to him and to the <hi>Serasquier Bassa,</hi> in order to retrieve their Affairs. But what these Instructi<g ref="char:EOLhyphen"/>ons, signed with that King's hand, were, we can<g ref="char:EOLhyphen"/>not know any further, than in so far as concerns the <hi>making of a Diversion, and sending of a con<g ref="char:EOLhyphen"/>siderable part of his Armies to the Frontiers.</hi> Which Expressions may easily be interpreted by what followed some Months after the date of this Letter, I mean the most Christian King sit<g ref="char:EOLhyphen"/>ting down before <hi>Luxemburgh,</hi> which indeed was a considerable <hi>Diversion,</hi> as being one of the most important places belonging to the <hi>Spanish Netherlands,</hi> and of the greatest consequence to the <hi>Empire</hi> it self. I am very inclinable to think that the Lines blotted out at the end of the Letter, contains something of so strange a na<g ref="char:EOLhyphen"/>ture, that Count <hi>Teckily</hi> himself thought it not fit to keep the Copy of it beside him: But what that was, I leave it to others to devine.</p>
+               <pb n="21" facs="tcp:99060:14"/>
+               <p> All the World knows that this Affair of <hi>Lux<g ref="char:EOLhyphen"/>emburgh</hi> awakened His late Majesty <hi>Charles</hi> the Second; And that the <hi>English</hi> Nation espou<g ref="char:EOLhyphen"/>sing so briskly the King of <hi>Spain</hi>'s Interest at that time, occasioned the subsequent <hi>Truce of Twenty years.</hi> Yet it's not to be imagined, but His most Christian Majesty did cordially sympa<g ref="char:EOLhyphen"/>thize with the Losses that his <hi>Allies</hi> sustained in <hi>Hungary,</hi> and that the constant Tract of <hi>Victo<g ref="char:EOLhyphen"/>ries,</hi> acquired by his Highness the Duke of <hi>Lor<g ref="char:EOLhyphen"/>rain,</hi> and the Elector of <hi>Bavaria,</hi> were matters of the greatest grief to him. But what Letters or good Offices past betwixt him and Count <hi>Teckily,</hi> or the <hi>Serasquier,</hi> after the date of the last Letter to <hi>Teckily</hi> above-mentioned, we have attained no other knowledge of, but by com<g ref="char:EOLhyphen"/>mon Fame; there being, for any thing I can learn, no other Papers found as yet, to give light into them.</p>
+               <p>All we can say further from convincing proofs, in relation to His most Chriftian Majesty's Intreigues with the <hi>Turks</hi> since that time, is that which was publickly transacted at <hi>Constantinople,</hi> after the Dethroning of the late Grand Seignior <hi>Mahomet,</hi> and setting up this <hi>Solyman;</hi> which was thus:</p>
+               <pb n="22" facs="tcp:99060:15"/>
+               <p>
+                  <hi>Solyman,</hi> upon his coming to the Throne, did send <hi>Commissioners</hi> to the <hi>Emperour</hi> to Treat of a <hi>Peace,</hi> and their Instructions were very fa<g ref="char:EOLhyphen"/>vourable to the Emperour, yielding him all <hi>Hungary,</hi> except <hi>two Towns.</hi> This Overture of Peace, so favourable to the House of <hi>Austria,</hi> was so unwelcome News to the most Christian King, that he was resolved to leave no means unessayed, to obstruct its taking effect: And in order thereto, he dispatches an Express to his Ambassadour at the <hi>Port,</hi> to demand a pri<g ref="char:EOLhyphen"/>vate Audience of the new <hi>Grand Vizier,</hi> and there-after of the <hi>Grand Seignior</hi> himself, and to propose some plausible things to encourage them to continue the War. Fortune has not been so kind to us, as to allow us a Copy of this Letter, and the <hi>Overtures</hi> then proposed by the <hi>French</hi> Ambassadour. But this is certain, that the only method the <hi>new Sultan</hi> did fall upon at that time, to quiet the Minds of his enraged Subjects, was to cause his Ministers to tell them, That <hi>the Emperour of the</hi> Franks, (meaning his most Christian Majesty) <hi>would presently fall upon the</hi> Germans, <hi>on the other side, with so considerable an Army, as would necessarily oblige the Emperour of the</hi> Germans <hi>to turn the most of his Forces that way, and thereby leave
+<pb n="23" facs="tcp:99060:15"/>all his Conquest in</hi> Hungary <hi>to be re-taken by the</hi> Ottomans.</p>
+               <p>And that something of this nature must ne<g ref="char:EOLhyphen"/>cessarily have been the Subject of the <hi>French</hi> Ambassadour's <hi>Audience,</hi> appears yet more fully from these two Heads:
+<list>
+                     <item>
+                        <hi>First,</hi> Immediately upon that <hi>Audience,</hi> there was an Express Courier dispatch'd from the <hi>Grand Vizier</hi> to the <hi>Turkish</hi> Commissioners in <hi>Hungary,</hi> to stand upon <hi>higher terms</hi> than first they had offered. And,</item>
+                     <item>
+                        <hi>Secondly,</hi> Within less than two Months there<g ref="char:EOLhyphen"/>after, the most Christian King did actually lay Siege to <hi>Philipsburgh,</hi> and thereby made a final <hi>Rupture</hi> with the Empire.</item>
+                  </list>
+               </p>
+               <p>What followed upon the taking of <hi>Philips-burgh,</hi> the <hi>Palatinate,</hi> and the Territories upon the <hi>Rhine</hi> now in Ashes, have reason never to forget: And the most Christian King has not fail'd his Confederate the <hi>Grand Seignior</hi> in ma<g ref="char:EOLhyphen"/>king a terrible Diversion from him, of the Im<g ref="char:EOLhyphen"/>perial Forces; but has far out-done the <hi>Turks</hi> themselves in the severest manner of making
+<pb n="24" facs="tcp:99060:16"/>War against his Fellow-Christians; and has done his utmost to deserve the Character gi<g ref="char:EOLhyphen"/>ven by the late <hi>Pope,</hi> viz. <hi>the Christian Turk,</hi> and <hi>as great an Enemy to</hi> Europe <hi>as the</hi> Mahu<g ref="char:EOLhyphen"/>metan <hi>one.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:99060:16"/>
+            <head>BOOKS, <hi>&amp;c.</hi> lately Printed for <hi>Dorman Newman</hi> at the <hi>King's Arms</hi> in the <hi>Poultry, London.</hi>
+            </head>
+            <list>
+               <item>I. THE History of the <hi>Treaty</hi> at <hi>Nimeguen,</hi> with Re<g ref="char:EOLhyphen"/>flections on the Interest of <hi>Europe,</hi> in Relation to that Affair. Translated out of <hi>French.</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+               <item>II. A Vindication of the present <hi>Great Revolution</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> in Five Letters, pass'd between <hi>James Welwood,</hi> M. D. and Mr. <hi>John March,</hi> Vicar of <hi>Newcastle</hi> upon <hi>Tine:</hi> occasi<g ref="char:EOLhyphen"/>oned by a Sermon preached by him on <hi>Jan.</hi> 30. 1688/9. be<g ref="char:EOLhyphen"/>fore the Mayor and Aldermen for <hi>Passive Obedience</hi> and <hi>Non-resistance.</hi> Price 6 <hi>d.</hi>
+               </item>
+               <item>III. An Answer to the late King <hi>James</hi>'s Declaration, dated at <hi>Dublin-Castle</hi> the 8th of <hi>May</hi> last, <hi>To all his preten<g ref="char:EOLhyphen"/>ded Subjects of the Kingdom of England.</hi> And Ordered, by a Vote of the Honourable House of Commons, to be Burnt by the Hands of the Common Hangman. Price 6 <hi>d.</hi>
+               </item>
+               <item>IV. A <hi>Seasonable Discourse,</hi> wherein is Examined what is Lawful, during the <hi>Confusions</hi> and <hi>Revolutions</hi> of Govern<g ref="char:EOLhyphen"/>ment, especially in the Case of <hi>A King Deserting his King<g ref="char:EOLhyphen"/>dom;</hi> And how far a Man may <hi>Lawfully</hi> Conform to the Powers and Commands of those who with <hi>various Successes hold Kingdoms.</hi> Whether it be Lawful, 1. In paying Taxes. 2. In personal Service. 3. In taking <hi>Oaths.</hi> 4. In giving himself up to a <hi>final Allegiance:</hi> As also, Whether the <hi>Nature of War</hi> be inconsistent with the Nature of the <hi>Christian Religion.</hi>
+               </item>
+               <item>V. <hi>Orange-Cards,</hi> Representing the late King's Reign, and Expedition of the Prince of <hi>Orange: (Viz.)</hi> The Earl of <hi>Essex</hi>'s Murther; Dr. <hi>Otes</hi>'s Whipping: Defacing the Monument; My Lord <hi>Jessries</hi> in the <hi>West;</hi> Hanging of
+<pb facs="tcp:99060:17"/>
+                  <hi>Protestants; Magdalen</hi>-Colledge; Tryal of the Bishops; <hi>Castlemain</hi> at <hi>Rome;</hi> The Popish Midwife; A <hi>Jesuit</hi> Preaching against our Bible; Consecrated Smock; My Lord Chancellor at the Beds-seet; Birth of the Prince of <hi>Wales;</hi> The Audience; Mass-houses pulling down and burning by Captain <hi>Tom</hi> and his <hi>Mobile;</hi> Mortarpieces on the <hi>Tower;</hi> Prince of <hi>ORANGE</hi>'s Landing; The <hi>Jesuits</hi> scampering; Father <hi>Peter</hi>'s Transactions; The Fight at <hi>Reading;</hi> The Army going over to the Prince of <hi>Orange; Tyrconnel</hi> in <hi>Ireland;</hi> My Lord Chancellor in the <hi>Tower;</hi> With many other remarkable Passages of the Times. To which is added, The Effigies of our Gracious King <hi>William</hi> and Queen <hi>Mary.</hi> Curiously Illustrated and Engraven in sively Figures; done by the Performers of the first <hi>Popish Plot</hi> Cards: And is the only true Sort, if there be any others they are Counterseit.</item>
+               <item>VI. <hi>The Murmurers;</hi> a Poem: To which is added the Character of a <hi>Grumbletonian.</hi> Price 6 <hi>d.</hi>
+               </item>
+               <item>VII. <hi>Johannis Georgii Graevii Oratio de Auspicatissima Ex<g ref="char:EOLhyphen"/>peditione Britannica, cum Potentissimus &amp; Invictissimus Guili<g ref="char:EOLhyphen"/>elmus Aransionensis Princeps, Angliae, Scotiae, Franciae, &amp; Hi<g ref="char:EOLhyphen"/>berniae, Rex Inauguraretur, die xi. Aprilis: Auctori latae Praepotentium &amp; Illustrium Ordinum</hi> Trajectinae <hi>Diaesesis ha<g ref="char:EOLhyphen"/>bita.</hi> 1689. Price 8 <hi>d.</hi>
+               </item>
+               <item>VIII. Reasons why the Parliament of <hi>Scotland</hi> cannot comply with the late King <hi>James</hi>'s Proclamation, sent lately to that <hi>Kingdom,</hi> and Prosecuted by the late Viscount <hi>Dundee,</hi> containing an Answer to every <hi>Paragraph</hi> of the said Proclamation, and Vindicating the said Parliament, their present Proceedings against him. Price 6 <hi>d.</hi>
+               </item>
+               <item>IX. An Encomium on the Reverend and Valiant Mr. <hi>George Walker.</hi> Price 1 <hi>d.</hi>
+               </item>
+               <item>X. The <hi>Modern History,</hi> or Monthly Account of all Considerable Occurrences, <hi>Civil, Ecclesiastical,</hi> and <hi>Milita<g ref="char:EOLhyphen"/>ry:</hi> with Natural and Philosophical Productions and Trans<g ref="char:EOLhyphen"/>actions.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
